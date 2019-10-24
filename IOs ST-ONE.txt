@@ -1,0 +1,9 @@
+OUT1 = pino 13
+OUT2 = pino 12
+OUT3 = pino 25
+OUT4 = pino 24
+
+IN1 = pino 19
+IN2 = pino 6
+IN3 = pino 5
+IN4 = pino 22
